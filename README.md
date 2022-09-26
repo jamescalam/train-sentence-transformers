@@ -1,1 +1,1 @@
-# The Guide to Training Sentence Transformers
+# The Guide to Training Embedding Models
